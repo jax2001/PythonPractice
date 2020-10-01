@@ -1,6 +1,6 @@
 # PythonPractice
 
-### 使用说明
+### It is chinese
 * 1. 使用db.sql建立mysql数据库
 * 2. 在wanghong.py的BoseModel定义里设置mysql的连接参数
 * 3. 安装python库pymysql, requests, BeautifulSoup
